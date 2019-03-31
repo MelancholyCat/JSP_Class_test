@@ -19,19 +19,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/Program Files (x86)/apache-tomcat-8.5.35/lib/servlet-api.jar!/" />
+          <root url="jar://D:/Program Files (x86)/apache-tomcat-8.5.35/lib/jsp-api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/Program Files (x86)/apache-tomcat-8.5.35/lib/jsp-api.jar!/" />
+          <root url="jar://D:/Program Files (x86)/apache-tomcat-8.5.35/lib/servlet-api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
